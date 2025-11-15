@@ -1,0 +1,477 @@
+[
+  {
+    "id": "1",
+    "name": "Valve, Counter-Strike 2",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-1.webp"
+  },
+  {
+    "id": "2",
+    "name": "Valve, CS:GO",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-2.webp"
+  },
+  {
+    "id": "3",
+    "name": "Gói âm thanh | Daniel Sadowski, Crimson Assault",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-3.webp"
+  },
+  {
+    "id": "4",
+    "name": "Gói âm thanh | Noisia, Sharpened",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-4.webp"
+  },
+  {
+    "id": "5",
+    "name": "Gói âm thanh | Robert Allaire, Insurgency",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-5.webp"
+  },
+  {
+    "id": "6",
+    "name": "Gói âm thanh | Sean Murray, A*D*8",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-6.webp"
+  },
+  {
+    "id": "7",
+    "name": "Gói âm thanh | Feed Me, High Noon",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-7.webp"
+  },
+  {
+    "id": "8",
+    "name": "Gói âm thanh | Dren, Death's Head Demolition",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-8.webp"
+  },
+  {
+    "id": "9",
+    "name": "Gói âm thanh | Austin Wintory, Desert Fire",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-9.webp"
+  },
+  {
+    "id": "10",
+    "name": "Gói âm thanh | Sasha, LNOE",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-10.webp"
+  },
+  {
+    "id": "11",
+    "name": "Gói âm thanh | Skog, Metal",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-11.webp"
+  },
+  {
+    "id": "12",
+    "name": "Gói âm thanh | Midnight Riders, All I Want for Christmas",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-12.webp"
+  },
+  {
+    "id": "13",
+    "name": "Gói âm thanh | Matt Lange, IsoRhythm",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-13.webp"
+  },
+  {
+    "id": "14",
+    "name": "Gói âm thanh | Mateo Messina, For No Mankind",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-14.webp"
+  },
+  {
+    "id": "15",
+    "name": "Gói âm thanh | Nhiều nghệ sĩ, Hotline Miami",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-15.webp"
+  },
+  {
+    "id": "16",
+    "name": "Gói âm thanh | Daniel Sadowski, Total Domination",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-16.webp"
+  },
+  {
+    "id": "17",
+    "name": "Gói âm thanh | Damjan Mravunac, The Talos Principle",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-17.webp"
+  },
+  {
+    "id": "18",
+    "name": "Gói âm thanh | Proxy, Battlepack",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-18.webp"
+  },
+  {
+    "id": "19",
+    "name": "Gói âm thanh | Ki:Theory, MOLOTOV",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-19.webp"
+  },
+  {
+    "id": "20",
+    "name": "Gói âm thanh | Troels Folmann, Uber Blasto Phone",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-20.webp"
+  },
+  {
+    "id": "21",
+    "name": "Gói âm thanh | Kelly Bailey, Hazardous Environments",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-21.webp"
+  },
+  {
+    "id": "22",
+    "name": "Gói âm thanh | Skog, II-Headshot",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-22.webp"
+  },
+  {
+    "id": "23",
+    "name": "Gói âm thanh | Daniel Sadowski, The 8-Bit Kit",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-23.webp"
+  },
+  {
+    "id": "24",
+    "name": "Gói âm thanh | AWOLNATION, I Am",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-24.webp"
+  },
+  {
+    "id": "25",
+    "name": "Gói âm thanh | Mord Fustang, Diamonds",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-25.webp"
+  },
+  {
+    "id": "26",
+    "name": "Gói âm thanh | Michael Bross, Invasion!",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-26.webp"
+  },
+  {
+    "id": "27",
+    "name": "Gói âm thanh | Ian Hultquist, Lion's Mouth",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-27.webp"
+  },
+  {
+    "id": "28",
+    "name": "Gói âm thanh | New Beat Fund, Sponge Fingerz",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-28.webp"
+  },
+  {
+    "id": "29",
+    "name": "Gói âm thanh | Beartooth, Disgusting",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-29.webp"
+  },
+  {
+    "id": "30",
+    "name": "Gói âm thanh | Lennie Moore, Java Havana Funkaloo",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-30.webp"
+  },
+  {
+    "id": "31",
+    "name": "Gói âm thanh | Darude, Moments CS:GO",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-31.webp"
+  },
+  {
+    "id": "32",
+    "name": "Gói âm thanh StatTrak™ | Beartooth, Aggressive",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-32_st.webp"
+  },
+  {
+    "id": "33",
+    "name": "Gói âm thanh StatTrak™ | Blitz Kids, The Good Youth",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-33_st.webp"
+  },
+  {
+    "id": "34",
+    "name": "Gói âm thanh StatTrak™ | Hundredth, FREE",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-34_st.webp"
+  },
+  {
+    "id": "35",
+    "name": "Gói âm thanh StatTrak™ | Neck Deep, Life's Not Out To Get You",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-35_st.webp"
+  },
+  {
+    "id": "36",
+    "name": "Gói âm thanh StatTrak™ | Roam, Backbone",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-36_st.webp"
+  },
+  {
+    "id": "37",
+    "name": "Gói âm thanh StatTrak™ | Twin Atlantic, GLA",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-37_st.webp"
+  },
+  {
+    "id": "38",
+    "name": "Gói âm thanh StatTrak™ | Skog, III-Arena",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-38_st.webp"
+  },
+  {
+    "id": "39",
+    "name": "Gói âm thanh | The Verkkars, EZ4ENCE",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-39.webp"
+  },
+  {
+    "id": "40",
+    "name": "Halo, The Master Chief Collection",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-40.webp"
+  },
+  {
+    "id": "41",
+    "name": "Gói âm thanh | Scarlxrd: King, Scar",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-41.webp"
+  },
+  {
+    "id": "42",
+    "name": "Half-Life: Alyx, Anti-Citizen",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-42.webp"
+  },
+  {
+    "id": "43",
+    "name": "Gói âm thanh | Austin Wintory, Bachram",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-43.webp"
+  },
+  {
+    "id": "44",
+    "name": "Gói âm thanh | Dren, Gunman Taco Truck",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-44.webp"
+  },
+  {
+    "id": "45",
+    "name": "Gói âm thanh | Daniel Sadowski, Eye of the Dragon",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-45.webp"
+  },
+  {
+    "id": "46",
+    "name": "Gói âm thanh | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-46.webp"
+  },
+  {
+    "id": "47",
+    "name": "Gói âm thanh | Tim Huling, Neo Noir",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-47.webp"
+  },
+  {
+    "id": "48",
+    "name": "Gói âm thanh | Sam Marshall, Bodacious",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-48.webp"
+  },
+  {
+    "id": "49",
+    "name": "Gói âm thanh | Matt Levine, Drifter",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-49.webp"
+  },
+  {
+    "id": "50",
+    "name": "Gói âm thanh | Amon Tobin, All for Dust",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-50.webp"
+  },
+  {
+    "id": "51",
+    "name": "Darren Korb, Hades",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-51.webp"
+  },
+  {
+    "id": "52",
+    "name": "Gói âm thanh | Neck Deep, The Lowlife Pack",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-52.webp"
+  },
+  {
+    "id": "53",
+    "name": "Gói âm thanh | Scarlxrd, CHAIN$AW.LXADXUT.",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-53.webp"
+  },
+  {
+    "id": "54",
+    "name": "Gói âm thanh | Austin Wintory, Mocha Petal",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-54.webp"
+  },
+  {
+    "id": "55",
+    "name": "Gói âm thanh | Chipzel, ~Yellow Magic~",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-55.webp"
+  },
+  {
+    "id": "56",
+    "name": "Gói âm thanh | Freaky DNA, Vici",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-56.webp"
+  },
+  {
+    "id": "57",
+    "name": "Gói âm thanh | Jesse Harlin, Astro Bellum",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-57.webp"
+  },
+  {
+    "id": "58",
+    "name": "Gói âm thanh | Laura Shigihara: Work Hard, Play Hard",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-58.webp"
+  },
+  {
+    "id": "59",
+    "name": "Gói âm thanh | Sarah Schachner, KOLIBRI",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-59.webp"
+  },
+  {
+    "id": "60",
+    "name": "Gói âm thanh | bbno$, u mad!",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-60.webp"
+  },
+  {
+    "id": "61",
+    "name": "Gói âm thanh | The Verkkars & n0thing — Flashbang Dance",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-61.webp"
+  },
+  {
+    "id": "62",
+    "name": "Gói âm thanh | 3kliksphilip, Heading for the Source",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-62.webp"
+  },
+  {
+    "id": "63",
+    "name": "Gói âm thanh | Humanity's Last Breath, Void",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-63.webp"
+  },
+  {
+    "id": "64",
+    "name": "Gói âm thanh | Juelz, Shooters",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-64.webp"
+  },
+  {
+    "id": "65",
+    "name": "Gói âm thanh | Knock2, dashstar*",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-65.webp"
+  },
+  {
+    "id": "66",
+    "name": "Gói âm thanh | Meechy Darko, Gothic Luxury",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-66.webp"
+  },
+  {
+    "id": "67",
+    "name": "Gói âm thanh | Sullivan King, Lock Me Up",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-67.webp"
+  },
+  {
+    "id": "68",
+    "name": "Gói âm thanh | Perfect World, 花脸 (Hoa Liễm)",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-68.webp"
+  },
+  {
+    "id": "69",
+    "name": "Gói âm thanh | Denzel Curry, ULTIMATE",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-69.webp"
+  },
+  {
+    "id": "70",
+    "name": "Valve, CS:GO",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-70.webp"
+  },
+  {
+    "id": "71",
+    "name": "Gói âm thanh | DRYDEN, Feel The Power",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-71.webp"
+  },
+  {
+    "id": "72",
+    "name": "Gói âm thanh | ISOxo, inhuman",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-72.webp"
+  },
+  {
+    "id": "73",
+    "name": "Gói âm thanh | KILL SCRIPT, All Night",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-73.webp"
+  },
+  {
+    "id": "74",
+    "name": "Gói âm thanh | Knock2, Make U SWEAT!",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-74.webp"
+  },
+  {
+    "id": "75",
+    "name": "Gói âm thanh | Rad Cat, Reason",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-75.webp"
+  },
+  {
+    "id": "76",
+    "name": "Gói âm thanh | TWERL, Ekko & Sidetrack, Under Bright Lights",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-76.webp"
+  },
+  {
+    "id": "78",
+    "name": "Gói âm thanh | Austin Wintory, The Devil Went Clubbing In Georgia",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-78.webp"
+  },
+  {
+    "id": "79",
+    "name": "Gói âm thanh | Ben Bromfield, Rabbit Hole",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-79.webp"
+  },
+  {
+    "id": "80",
+    "name": "Gói âm thanh | Daniel Sadowski, Dead Shot",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-80.webp"
+  },
+  {
+    "id": "81",
+    "name": "Gói âm thanh | Dren McDonald, Coffee! Kofe! Kahveh!",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-81.webp"
+  },
+  {
+    "id": "82",
+    "name": "Gói âm thanh | Matt Levine, Agency",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-82.webp"
+  },
+  {
+    "id": "83",
+    "name": "Gói âm thanh | Sam Marshall, Clutch",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-83.webp"
+  },
+  {
+    "id": "84",
+    "name": "Gói âm thanh | Tim Huling, Devil's Paintbrush",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-84.webp"
+  },
+  {
+    "id": "85",
+    "name": "Gói âm thanh | Tree Adams, Seventh Moon",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-85.webp"
+  },
+  {
+    "id": "86",
+    "name": "Gói âm thanh | Perfect World, 诶嘿 (Ay Hey)",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-86.webp"
+  },
+  {
+    "id": "87",
+    "name": "Gói âm thanh | Adam Beyer, Red Room",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-87.webp"
+  },
+  {
+    "id": "88",
+    "name": "Gói âm thanh | Ghost, Skeletá",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-88.webp"
+  },
+  {
+    "id": "89",
+    "name": "Gói âm thanh | HEALTH, RAT WARS",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-89.webp"
+  },
+  {
+    "id": "90",
+    "name": "Gói âm thanh | James and the Cold Gun, Chewing Glass",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-90.webp"
+  },
+  {
+    "id": "91",
+    "name": "Gói âm thanh | Jonathan Young, Starship Velociraptor",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-91.webp"
+  },
+  {
+    "id": "92",
+    "name": "Gói âm thanh | Juelz, Floorspace",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-92.webp"
+  },
+  {
+    "id": "93",
+    "name": "Gói âm thanh | Killer Mike, MICHAEL",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-93.webp"
+  },
+  {
+    "id": "94",
+    "name": "Gói âm thanh | PVRIS, Evergreen",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-94.webp"
+  },
+  {
+    "id": "95",
+    "name": "Gói âm thanh | Selective Response, No Love Only Pleasure",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-95.webp"
+  },
+  {
+    "id": "96",
+    "name": "Gói âm thanh | Tigercub, The Perfume of Decay",
+    "image": "https://raw.githubusercontent.com/agasking1337/Optimised-WeaponPaints/master/img/skins/music_kit-96.webp"
+  }
+]
